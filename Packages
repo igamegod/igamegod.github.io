@@ -1,15 +1,16 @@
 Package: com.iosdevice.pookiebutt
-Version: 2025050202
+Version: 2025050201
 Architecture: iphoneos-arm64
 Maintainer: iosdevice
 Installed-Size: 1788
 Depends: mobilesubstrate
-Filename: debs/com.iosdevice.pookiebutt_2025050202_iphoneos-arm64.deb
-Size: 411850
-MD5sum: 25a31b8eb09241f2514c823de03e3241
-SHA1: 1a701bad05ca4206d8dc1f6082d8ddb8e1d4e7e9
-SHA256: a6993a6b79e7ea15826fdd5963f233be2ba2212a41a9e6de3ff1a035e927faef
+Filename: debs/com.iosdevice.pookiebutt_2025050201_iphoneos-arm64.deb
+Size: 412000
+MD5sum: e5de60d27dea0ad68e497f6297b82ff6
+SHA1: a929aa9c5d93a959c89b5714acad25f558c34f69
+SHA256: 35169550f158462c168fd9717f3592d9d1915e487e973b95a1927d9e7377ae21
 Description: Rec Room Cheeto :3
 Author: iosdevice
+Icon: https://raw.githubusercontent.com/igamegod/igamegod.github.io/refs/heads/main/cccalc-icon.png
 Name: Pookie Butt Mod Menu
 
