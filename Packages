@@ -1,0 +1,15 @@
+Package: com.iosdevice.pookiebutt
+Version: 2025050201
+Architecture: iphoneos-arm64
+Maintainer: iosdevice
+Installed-Size: 1788
+Depends: mobilesubstrate
+Filename: debs/com.iosdevice.pookiebutt_2025050201_iphoneos-arm64.deb
+Size: 411928
+MD5sum: fc67b5c7f9f0ea83b5d42bf5097b96d4
+SHA1: 4eacbfb1f339843d25560e25e935ada556a23c3b
+SHA256: 7032f0167e3517b49172b0a35065bcf9092f541ab52cf1f5c87d309e69eecb84
+Description: Rec Room Cheeto :3
+Author: iosdevice
+Name: Pookie Butt Mod Menu
+

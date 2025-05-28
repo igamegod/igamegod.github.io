@@ -1,0 +1,9 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: stable
+Components: main
+Date: Wed, 28 May 2025 00:28:30 +0000
+Description: meow
+Label: iosdevice's Repo
+Origin: iosdevice's Repo
+Suite: stable
+Version: 1.0
