@@ -1,16 +1,16 @@
-Package: com.iosdevice.pookiebutt
-Version: 2025050201
+Package: com.iosdevice.pbv2
+Version: 2025051901
 Architecture: iphoneos-arm64
 Maintainer: iosdevice
 Installed-Size: 1788
 Depends: mobilesubstrate
-Filename: debs/com.iosdevice.pookiebutt_2025050201_iphoneos-arm64.deb
-Size: 412000
-MD5sum: e5de60d27dea0ad68e497f6297b82ff6
-SHA1: a929aa9c5d93a959c89b5714acad25f558c34f69
-SHA256: 35169550f158462c168fd9717f3592d9d1915e487e973b95a1927d9e7377ae21
-Description: Rec Room Cheeto :3
+Filename: debs/com.iosdevice.pbv2_2025051901_iphoneos-arm64.deb
+Size: 411876
+MD5sum: 290da973e4e5d15dee0b044b1bbb3c41
+SHA1: 5cb315241258376b06548c6c985e43855edc2bf5
+SHA256: e5073907715e1a3d1bef8847cbd495b20f1ae39636f2f51810fea03ca5c65c55
+Description: you can also find me at iosgods.com/profile/6266834-iosdevice >:3
 Author: iosdevice
-Icon: https://raw.githubusercontent.com/igamegod/igamegod.github.io/refs/heads/main/cccalc-icon.png
-Name: Pookie Butt Mod Menu
+Icon: https://raw.githubusercontent.com/igamegod/igamegod.github.io/refs/heads/main/images/rrflame.png
+Name: Pookie Butt V2
 
