@@ -5,12 +5,13 @@ Maintainer: iosdevice
 Installed-Size: 1788
 Depends: mobilesubstrate
 Filename: debs/com.iosdevice.pbv2_2025051901_iphoneos-arm64.deb
-Size: 411876
-MD5sum: 290da973e4e5d15dee0b044b1bbb3c41
-SHA1: 5cb315241258376b06548c6c985e43855edc2bf5
-SHA256: e5073907715e1a3d1bef8847cbd495b20f1ae39636f2f51810fea03ca5c65c55
-Description: you can also find me at iosgods.com/profile/6266834-iosdevice >:3
+Size: 411928
+MD5sum: a13fe11150417dff698e079ce2ca8206
+SHA1: 3bf5fa7455273414c16ef97eeab7cc43440ec343
+SHA256: 5951e4fa2b3a219ba00927663bf63f857c4f335d3f219162874ff5c52df8b092
+Section: Tweaks
+Description: you can also find me at https://iosgods.com/profile/6266834-iosdevice/
 Author: iosdevice
 Icon: https://raw.githubusercontent.com/igamegod/igamegod.github.io/refs/heads/main/images/rrflame.png
-Name: Pookie Butt V2
+Name: Pookie Butt V2 [ Rec Room ]
 
