@@ -1,3 +1,20 @@
+Package: com.iosdevice.kittynautica
+Version: 1.21.81895
+Architecture: iphoneos-arm64
+Maintainer: iosdevice
+Installed-Size: 1784
+Depends: mobilesubstrate
+Filename: debs/com.iosdevice.kittynautica_1.21.81895_iphoneos-arm64.deb
+Size: 410302
+MD5sum: b3e8772b5c7f8aaafd90f6d105a85d0c
+SHA1: a2fc446466a4c609ba7615f7e44cf6abde244570
+SHA256: 92a3a70d204c2da3fcb8a24811e2efe68b6534e3d51697da761c741c8478f806
+Section: Tweaks
+Description: you can also find me at https://iosgods.com/profile/6266834-iosdevice/
+Author: iosdevice
+Icon: https://raw.githubusercontent.com/igamegod/Kittynautica/refs/heads/main/sillycat.png
+Name: Kittynautica Mod Menu
+
 Package: com.iosdevice.pbv2
 Version: 2025051901
 Architecture: iphoneos-arm64
