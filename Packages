@@ -2,13 +2,13 @@ Package: com.iosdevice.kittynautica
 Version: 1.21.81895
 Architecture: iphoneos-arm64
 Maintainer: iosdevice
-Installed-Size: 1784
+Installed-Size: 1792
 Depends: mobilesubstrate
 Filename: debs/com.iosdevice.kittynautica_1.21.81895_iphoneos-arm64.deb
-Size: 410302
-MD5sum: b3e8772b5c7f8aaafd90f6d105a85d0c
-SHA1: a2fc446466a4c609ba7615f7e44cf6abde244570
-SHA256: 92a3a70d204c2da3fcb8a24811e2efe68b6534e3d51697da761c741c8478f806
+Size: 414862
+MD5sum: bdcc1191a263343042584a06548f1a87
+SHA1: 8d97f05daeb90c41f88bbbee15c9aeb63e098bdd
+SHA256: 97f8d7095a18b9fbc6c0b6e439d2f40c16dfabadc81364547ae651aa4ab58321
 Section: Tweaks
 Description: you can also find me at https://iosgods.com/profile/6266834-iosdevice/
 Author: iosdevice
