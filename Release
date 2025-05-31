@@ -8,12 +8,12 @@ Origin: iosdevice's Repo
 Suite: stable
 Version: 1.0
 MD5Sum:
- 5023d7c0eca36c2fe172165176a5e44e 1276 Packages
- d81584c50924c6bc244deef1e0b361b3 700 Packages.bz2
- 9c32e12676ddb9139c56edaf97c9275a 614 Packages.gz
- 5ea7f58a2b50d8bc40e2a9bc9d04e5e1 604 Packages.zst
+ f6962deefdd5b3558bc5698facd91a60 1276 Packages
+ 85a8d629a72a6af9e098d425e41d8020 703 Packages.bz2
+ f1c048cf380e3965ee5bffbea45a2253 616 Packages.gz
+ 0a7801d22201eede1cf75df408d52315 605 Packages.zst
 SHA256:
- 4865defff7ef4cc2a8ffaf7dfb8a02ba90826aab935bdea76659c3bc4dbc1665 1276 Packages
- 750e74ddfc38cb0943efaf39839a4e80afaf92d856b9498a2caaf54305c4dc2d 700 Packages.bz2
- 628dc484fb37d8c806daf8bfbf7ebfc6d30e627628078e6658ce9d8a5a3d406e 614 Packages.gz
- a7176631f555977f2b9c8ac1daa7100879cc991fa62cdc65ae15c118838f9da2 604 Packages.zst
+ 9df4d0525c1e98cb44464f46da040e7e0a5358be94c20890e2c341f1c61d7c9e 1276 Packages
+ c0f5f4394f57fcee6217c893a5c0166d6b5e180b8b606cd97fe27b3c91d3310e 703 Packages.bz2
+ 5f705d7cf69ba27f6b1b7052c5f8ee1e96c83bc4ddad0702acd085ac301a207d 616 Packages.gz
+ 24d6df83a8ddaaef6d93d7944e851f7db499deb8e2caaca9bea2750bb7c82bd6 605 Packages.zst
