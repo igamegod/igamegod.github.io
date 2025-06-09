@@ -4,12 +4,13 @@ Architecture: iphoneos-arm64
 Maintainer: iosdevice
 Installed-Size: 88
 Filename: debs/com.iosdevice.vaultx_1.0_iphoneos-arm64.deb
-Size: 6386
-MD5sum: dd127e0ced7f0bba42b3957208322d5a
-SHA1: 0a72b14433be51c8b62eacd8c54077c731f9d5de
-SHA256: f5e2a06d252f838ca36b6d84d71d0be2aa0d610fd1c3090a6da208cc5cbf539b
+Size: 6464
+MD5sum: b240489e84d6cbedb00527df8b1901eb
+SHA1: ed23652da19e7984e62eaf8b8eeb50da5e3fd58d
+SHA256: b0625fdef87b3bc2a4faf64658d721386b97e4b0bf947f098aa02982b33cc957
 Section: Tweaks
-Description: Fortnite iOS Hybrid
+Description: VaultX Hybrid is available as a ipa on iosgods.com :3
 Author: iosdevice
+Icon: https://raw.githubusercontent.com/igamegod/igamegod.github.io/refs/heads/main/images/X.png
 Name: VaultX
 
